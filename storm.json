@@ -1,0 +1,12 @@
+{
+    "locations": [
+      {
+        "radius": "5",
+        "coordinates": [ 98.085, 5.79]
+      },
+      {
+        "radius": "5",
+        "coordinates": [ 43.593, 12.64]
+      }
+    ]
+  }

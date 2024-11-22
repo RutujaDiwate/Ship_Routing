@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "id": 1, "name": "Shanghai, China" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [121.4737, 31.2304]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 2, "name": "Singapore, Singapore" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [103.8198, 1.3521]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 3, "name": "Ningbo-Zhoushan, China" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [121.5498, 29.8782]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 4, "name": "Shenzhen, China" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [114.0579, 22.5431]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 5, "name": "Qingdao, China" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [120.3826, 36.0671]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 6, "name": "Guangzhou, China" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [113.2644, 23.1291]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 7, "name": "Busan, South Korea" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [129.0756, 35.1796]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 8, "name": "Tianjin, China" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.3616, 39.3434]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 9, "name": "Los Angeles-Long Beach, USA" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-118.2816, 33.7409]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 10, "name": "Hong Kong, China" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [114.1694, 22.3193]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 11, "name": "Rotterdam, Netherlands" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.4777, 51.9244]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 12, "name": "Jebel Ali, UAE" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [55.0615, 25.0042]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 13, "name": "Antwerp-Bruges, Belgium" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.4028, 51.2602]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 14, "name": "Port Kelang, Malaysia" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [101.3621, 3.0005]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 15, "name": "Xiamen, China" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [118.0895, 24.4798]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 16, "name": "Tanjung Pelepas, Malaysia" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [103.5304, 1.3717]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 17, "name": "New York, USA" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-74.0060, 40.7128]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 18, "name": "Kaohsiung, Taiwan" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [120.3014, 22.6273]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 19, "name": "Laem Chabang, Thailand" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [100.8930, 13.0847]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 20, "name": "Hamburg, Germany" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [9.9937, 53.5511]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 21, "name": "Tanjung Priok, Indonesia" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [106.9073, -6.1184]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 22, "name": "Ho Chi Minh City, Vietnam" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [106.6297, 10.8231]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 23, "name": "Dalian, China" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [121.6147, 38.9140]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 24, "name": "Colombo, Sri Lanka" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [79.8612, 6.9271]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": 25, "name": "Manila, Philippines" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [120.9842, 14.5995]
+        }
+      }
+    ]
+  }
+  
